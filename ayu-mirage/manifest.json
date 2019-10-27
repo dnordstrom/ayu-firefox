@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "Ayu Mirage",
+  "author": "Daniel Nordstrom",
+  "description": "Ayu Mirage theme for Firefox",
+  "version": "0.1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ayu-mirage@mrnordstrom.com",
+      "strict_min_version": "57.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#1F2430",
+      "tab_background_text": "#BFBAB0",
+      "tab_background_separator": "#191E2A",
+      "tab_line": "#FFCC66",
+      "toolbar": "#232834",
+      "toolbar_text": "#CBCCC6",
+      "toolbar_field": "#1F2430",
+      "toolbar_field_text": "#CBCCC6",
+      "toolbar_field_border": "#191E2A",
+      "toolbar_field_separator": "#191E2A",
+      "toolbar_vertical_separator": "#191E2A",
+      "button_background_hover": "#34455A",
+      "button_background_active": "#34455A",
+      "icons_attention": "#FFCC66",
+      "tab_loading": "#FFCC66",
+      "popup": "#1F2430",
+      "popup_text": "#CBCCC6",
+      "popup_border": "#191E2A"
+    }
+  }
+}
